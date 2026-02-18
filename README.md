@@ -5,9 +5,6 @@ Building systems that think before they scale.
 
 ## 🧠 Engineering Approach
 
-I don't just build interfaces —  
-I design the logic behind them.
-
 From custom CMS architectures to backend-driven commerce systems  
 and analytical engines built with Node & Express —  
 my focus is always on structure, performance, and long-term maintainability.
