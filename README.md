@@ -27,7 +27,13 @@ Real-world scalability.
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![PostgreSQL ](https://camo.githubusercontent.com/64e7790ec87ef18081623befc8bfed18ecc6c856e27f814d7504ad931b40f3ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-skyblue?style=flat&logo=tailwindcss)
+
 
 ---
 
