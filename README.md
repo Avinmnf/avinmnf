@@ -3,7 +3,7 @@ Building systems that think before they scale.
 
 ---
 
-## 🧠 Engineering Approach
+##  Engineering Approach
 
 From custom CMS architectures to backend-driven commerce systems  
 and analytical engines built with Node & Express —  
@@ -20,7 +20,7 @@ Real-world scalability.
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
@@ -37,7 +37,7 @@ Real-world scalability.
 
 ---
 
-## 🏗 What I've Built
+##  What I've Built
 
 • Custom CMS with advanced role & permission layers  
 • Backend-first e-commerce systems with dynamic variants  
@@ -47,7 +47,7 @@ Real-world scalability.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Backend architecture & system design  
 - Performance optimization  
@@ -56,7 +56,7 @@ Real-world scalability.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 If you're building something that needs solid engineering —  
 I'm always open to meaningful collaborations.
