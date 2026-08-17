@@ -1,5 +1,4 @@
 # Avin Minoofar 
-Building systems that think before they scale.
 
 ---
 
